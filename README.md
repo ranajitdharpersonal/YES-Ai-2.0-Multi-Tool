@@ -37,7 +37,7 @@ Our agent combines multiple tools to deliver smart, accurate, and multi-lingual 
 
 | Resource | Link |
 | :--- | :--- |
-| **Live Demo URL** |  |
+| **Live Demo URL** | https://yesai2-ranajitdhar.streamlit.app |
 | **GitHub Repository** | https://github.com/ranajitdharpersonal/YES-Ai-2.0-Multi-Tool.git |
 
 ### 💻 Local Setup Instructions
