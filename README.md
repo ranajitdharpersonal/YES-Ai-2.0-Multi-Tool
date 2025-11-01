@@ -1,4 +1,4 @@
-🚀 YES Ai: The Next-Generation Multi-Tool AI Agent
+🤖 YES Ai: The Next-Generation Multi-Tool AI Agent
 An advanced framework powered by Google Gemini for high-impact decision-making and seamless automation. Designed for serverless deployment and massive scalability on Google Cloud.
 
 ## 🌟 Core Features
